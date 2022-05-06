@@ -7,3 +7,4 @@ main{font-family:"Nova Mono";}.bg--bricks{background-image:url("/img/bricks.jpeg
 .bg--sleeping{background-image:url('/img/frame6.png'),url("/img/duerme-cut.png");background-size: contain;background-position: center; opacity: .9;position: relative;top: 0em;z-index: 1;background-repeat: no-repeat;}
 .font-nova{font-family: "Nova Mono";}.min--height{min-height: 300px;}.position--relative{position: relative;}.opacity9{opacity: .9;}.graffitti-Display{font-family:"Sedgwick Ave Display";position: absolute; z-index: 5;left: 5em;top: 4.5em; color:#27474eba; }.mt7{margin-top: 7em;}.mr15{margin-right:1.8rem}
 .bg--paint{background-image: url("/img/paint2.png");background-size: contain;background-position: center; background-repeat: no-repeat;}
+.filter--gray{filter: invert(29%) sepia(6%) saturate(298%) hue-rotate(56deg) brightness(88%) contrast(79%);}
