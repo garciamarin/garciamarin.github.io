@@ -5,10 +5,12 @@ h3{font-family:"Sedgwick Ave Display";font-size: 1.7em;}
 .graffitti{position: relative; z-index: 5; font-weight: 600;}
 .graffitti-Display-title{
     font-family:"Sedgwick Ave Display";
-    color:#218c8dc4;position: absolute; 
+    color:#4425bf;position: absolute; 
     transform: rotate(-30deg); 
     top:1em;z-index: 0;
-    opacity: .7; }
+    opacity: .7;
+    
+}
 .font-alt{
     font-family: "Montserrat+Alternates";
      font-size: 1.7em;
@@ -25,8 +27,11 @@ h3{font-family:"Sedgwick Ave Display";font-size: 1.7em;}
     }
 .text-red{ 
 font-family: 'Montserrat Alternates';    
-color: rgb(60, 6, 6);
-font-weight: 500;}
+color: rgb(225, 100, 5);
+font-weight: 400;
+box-shadow: 1px 1px 6px #473E3F;background-image:url("/img/poster.jpeg");  
+
+padding: 1em;}
 main{font-family:'Montserrat Alternates',"Nova Mono";}
 .bg--bricks{
     /* background-image:url("/img/bricks.jpeg"); */
@@ -65,7 +70,7 @@ main{font-family:'Montserrat Alternates',"Nova Mono";}
     background-size: contain;
     background-position: center;
     filter: brightness(.75);
-    background-color: #508a9fc6;
+    background-color: #eef3f6c6;
 
     /* position: relative;  */
     /* opacity: .9; */
